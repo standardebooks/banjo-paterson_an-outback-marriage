@@ -40,7 +40,7 @@
 		<dc:language>en-AU</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6119</dc:source>
 		<dc:source>https://archive.org/details/outbackmarriage00pateuoft</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">The book is full of Australian slang and misspellings on purpose. Most of the modernisations are fine, except for the lone "intrust" in chapter 17. That stays as "entrust" is spelled correctly elsewhere.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
