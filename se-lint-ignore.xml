@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-29.xhtml">
+		<ignore>
+			<code>t-010</code>
+			<reason>Number represents gait, not time. I can't find a reliable source for how to properly typeset gait, so it gets left as is.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
