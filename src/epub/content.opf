@@ -44,7 +44,6 @@
 		<meta property="se:production-notes">The book is full of Australian slang and misspellings on purpose. Most of the modernisations are fine, except for "intrust" in Chapter 17 and "i herd you" in Chapter 6.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/banjo-paterson_an-outback-marriage</meta>
 		<dc:creator id="author">Banjo Paterson</dc:creator>
 		<meta property="file-as" refines="#author">Paterson, Banjo</meta>
@@ -53,10 +52,10 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n50050658</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Elioth Gruner</dc:contributor>
+		<meta property="file-as" refines="#artist">Gruner, Elioth</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Elioth_Gruner</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n84174133</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jeffrey Kraus-yao</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Kraus-yao, Jeffrey</meta>
