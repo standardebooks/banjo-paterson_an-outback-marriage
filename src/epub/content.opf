@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/banjo-paterson/an-outback-marriage</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-12-23T21:22:18Z</dc:date>
+		<meta property="dcterms:modified">2020-12-23T21:22:18Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -35,15 +35,15 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A posh Englishwoman is sent to a station in New South Wales to learn the ropes, while a search for a lost son with a large inheritance is underway.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The posh, English daughter of an Australian pastorialist is sent to Kuryong station to learn the ropes. At the same time, a search is underway across the desolate innards of regional New South Wales for the lost son of a wealthy uncle. These stories collide to give a humorous take on the values of family, marriage and hard work, set in the beautiful backdrop of the Australian Outback.&lt;/p&gt;
-			&lt;p&gt;This was &lt;a href="https://standardebooks.org/ebooks/henry-george"&gt;Banjo Paterson’s&lt;/a&gt; first novel after a string of widely celebrated poems written in the late 1800s.&lt;/p&gt;
+			&lt;p&gt;The posh, English daughter of an Australian pastoralist is sent to Kuryong station to learn the ropes. At the same time, a search is underway across the desolate innards of regional New South Wales for the lost son of a wealthy uncle. These stories collide to give a humorous take on the values of family, marriage and hard work, set in the beautiful backdrop of the Australian Outback.&lt;/p&gt;
+			&lt;p&gt;This was &lt;a href="https://standardebooks.org/ebooks/banjo-paterson"&gt;Banjo Paterson’s&lt;/a&gt; first novel after a string of widely celebrated poems written in the late 1800s.&lt;/p&gt;
 		</meta>
 		<dc:language>en-AU</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6119</dc:source>
 		<dc:source>https://archive.org/details/outbackmarriage00pateuoft</dc:source>
 		<meta property="se:production-notes">The book is full of Australian slang and misspellings on purpose. Most of the modernisations are fine, except for "intrust" in Chapter 17 and "i herd you" in Chapter 6.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">68920</meta>
+		<meta property="se:reading-ease.flesch">80.31</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/banjo-paterson_an-outback-marriage</meta>
 		<dc:creator id="author">Banjo Paterson</dc:creator>
 		<meta property="file-as" refines="#author">Paterson, Banjo</meta>
@@ -72,6 +72,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://rightword.com.au/david.php</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
