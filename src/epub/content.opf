@@ -49,13 +49,13 @@
 		<meta property="file-as" refines="#author">Paterson, Banjo</meta>
 		<meta property="se:name.person.full-name" refines="#author">Andrew Barton Paterson</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Banjo_Paterson</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n50050658</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50050658</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Elioth Gruner</dc:contributor>
 		<meta property="file-as" refines="#artist">Gruner, Elioth</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Elioth_Gruner</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n84174133</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n84174133</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jeffrey Kraus-yao</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Kraus-yao, Jeffrey</meta>
