@@ -43,7 +43,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/6119</dc:source>
 		<dc:source>https://archive.org/details/outbackmarriage00pateuoft</dc:source>
 		<meta property="se:production-notes">The book is full of Australian slang and misspellings on purpose. Most of the modernisations are fine, except for "intrust" in Chapter 17 and "i herd you" in Chapter 6.</meta>
-		<meta property="se:word-count">68920</meta>
+		<meta property="se:word-count">68921</meta>
 		<meta property="se:reading-ease.flesch">80.31</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/banjo-paterson_an-outback-marriage</meta>
 		<dc:creator id="author">Banjo Paterson</dc:creator>
