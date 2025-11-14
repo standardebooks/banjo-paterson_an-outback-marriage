@@ -29,6 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">An Outback Marriage</dc:title>
 		<meta property="file-as" refines="#title">Outback Marriage, An</meta>
+		<meta property="dcterms:alternative" refines="#title">In No Man’s Land</meta>
 		<dc:subject id="subject-1">Australia -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2007100473</meta>
