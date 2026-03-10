@@ -2,11 +2,13 @@
 <se-lint-ignore>
 	<file path="chapter-15.xhtml">
 		<ignore code="y-035">
+			<line>18</line>
 			<reason>Matched text is a typo on purpose.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-29.xhtml">
 		<ignore code="t-010">
+			<line>32</line>
 			<reason>Number represents gait, not time. I can't find a reliable source for how to properly typeset gait, so it gets left as is.</reason>
 		</ignore>
 	</file>
