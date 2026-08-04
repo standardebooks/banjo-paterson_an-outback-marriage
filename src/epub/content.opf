@@ -35,7 +35,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2007100473</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A posh Englishwoman is sent to a station in New South Wales to learn the ropes, while a search for a lost son with a large inheritance is underway.</dc:abstract>
+		<meta property="schema:abstract">A posh Englishwoman is sent to a station in New South Wales to learn the ropes, while a search for a lost son with a large inheritance is underway.</meta>
 		<dc:description>
 			&lt;p&gt;The posh, English daughter of an Australian pastoralist is sent to Kuryong station to learn the ropes. At the same time, a search is underway across the desolate innards of regional New South Wales for the lost son of a wealthy uncle. These stories collide to give a humorous take on the values of family, marriage and hard work, set in the beautiful backdrop of the Australian Outback.&lt;/p&gt;
 			&lt;p&gt;This was &lt;a href="https://standardebooks.org/ebooks/banjo-paterson"&gt;Banjo Paterson’s&lt;/a&gt; first novel after a string of widely celebrated poems written in the late 1800s.&lt;/p&gt;
